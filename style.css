@@ -22,14 +22,14 @@ p {
 }
 .buttons-coll {
   width: 90%;
-  margin: 50px auto;
+  margin: 0px auto;
   text-align: left;
 }
 button {
-  margin: 20px;
+  margin: 0px;
 }
 .custom-btn {
-  padding: 10px 25px;
+  padding: 0px 0px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   background: transparent;
